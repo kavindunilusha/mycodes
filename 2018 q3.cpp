@@ -63,7 +63,7 @@ int main(void){
 	fscanf(fp,"%s %s",emp,name);
 	}
 	
-	printf("Employee  found");
+	printf("Employee not found");
 	
 	fclose(fp);
 	return 0;
