@@ -8,7 +8,7 @@ public class ex02 {
 		
 		ArrayList<Student> studentList = new ArrayList<>();
 		
-		studentList.add(new Student("IT101","Kaveen Dinethma",4));
+		studentList.add(new Student("IT101","Kavindu Nilusha",4));
 		studentList.add(new Student("IT102","Sasindu Nadeeshan",4));
 		studentList.add(new Student("IT103","Erandi Amarasekara",4));
 		
