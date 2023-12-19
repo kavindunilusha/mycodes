@@ -5,7 +5,7 @@ int main(void){
 	
 	for(i=0;i<4;i++){
 		for(j=0;j<4;j++){
-			printf("Enter the color for row %d column %d (R/G/B) : ",i,j);
+			printf("Enter  color for row %d column %d (R/G/B) : ",i,j);
 			scanf(" %c",&led[i][j]);
 		}
 		printf("\n");
