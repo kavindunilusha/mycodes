@@ -19,7 +19,7 @@ int main(void)
 	
 	fprintf(item,"%s  ",itemName);
 	
-	printf("Enter Item Price :");
+	printf("Enter Item Price please:");
 	scanf("%f",&itemPrice);
 	
 	fprintf(item,"%.2f  ",itemPrice);
