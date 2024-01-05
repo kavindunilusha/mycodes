@@ -42,7 +42,7 @@ int main(void){
 		return -1;
 	}
 	
-	printf("Enter Employee no to search : ");
+	printf("Enter Employee  to search : ");
 	scanf("%s",&search);
 	
 	
