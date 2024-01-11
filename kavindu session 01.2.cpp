@@ -72,7 +72,7 @@ float calcTax(float annuallnterest){
 void displayDetails(float interest, float taxAmount){
 	
 		float amount=interest-taxAmount;
-		printf("\n%s%16s%29s","Annual Interest","Tax Amount","Amount Payable");
+		printf("\n%s%16s%29s","Annual ","Tax Amount","Amount Payable");
 		printf("\n\n%.2f%20.2f%30.2f",interest,taxAmount,amount);
 	
 	
