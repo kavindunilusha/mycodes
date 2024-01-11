@@ -9,7 +9,7 @@ int main(void)
 	
 	item = fopen("items.dat","w");
 	
-	printf("Enter Item Code :");
+	printf("Enter  Code :");
 	scanf("%d",&itemCode);
 	
 	fprintf(item,"%d  ",itemCode);
