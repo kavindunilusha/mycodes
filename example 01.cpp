@@ -18,7 +18,7 @@ int main(void)
 	scanf("%d",&type);
 	
 	while(type!=-1){
-		printf("\nEnter the deposite amount :");
+		printf("\nEnter the deposite  :");
 		scanf("%f",&d_amount);
 		
 		calclnterest (type,d_amount);
