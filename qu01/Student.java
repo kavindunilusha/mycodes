@@ -24,7 +24,7 @@ public class Student {
 	public void Read() {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Enter Student ID : ");
+		System.out.println("Enter Student ID no: ");
 		StudentId = sc.nextLine();
 		
 		System.out.println("Enter Student name : ");
