@@ -28,7 +28,7 @@ public class Course {
 		System.out.println("Enter Course ID :");
 		CourseId = sc.nextLine();
 		
-		System.out.println("Enter Course name :");
+		System.out.println("Enter Course First name :");
 		cName = sc.nextLine();
 		
 		System.out.println("Enter Course Instructor :");
