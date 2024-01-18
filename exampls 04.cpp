@@ -8,7 +8,7 @@ int main(void)
 	
 	for(i=0;i<3;i++){
 		for(j=0;j<5;j++){
-			printf("Enter chocalate  :");
+			printf("Enter chocalate  ");
 			scanf("%f",&size[i][j]);
 		}
 	}
