@@ -71,7 +71,7 @@ void displayDetails(float interest, float taxAmount){
 	float amount;
 	amount = interest - taxAmount;
 	
-	printf("\n%s%16s%29s","Annual Interest","Tax Amount","Amount payable");
+	printf("\n%s%16s%29s","Annual Interest","Tax Amoun","Amount payable");
 	printf("\n\n%.2f%20.2f%30.2f",interest,taxAmount,amount);
 	
 	
