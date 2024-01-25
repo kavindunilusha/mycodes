@@ -10,7 +10,7 @@ public class ex03 {
 		HashSet<Integer> heights = new HashSet<Integer>();
 		
 		for(int i = 0;i < 10;i++) {
-			System.out.print("Enter a height:");
+			System.out.print("Enter  height:");
 			int num = sc.nextInt();
 			heights.add(num);
 			
