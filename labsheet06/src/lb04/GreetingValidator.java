@@ -9,7 +9,7 @@ public class GreetingValidator {
 		
 		try {
 		
-		System.out.println("Enter the name :");
+		System.out.println("Enter  name :");
 		String name = sc.nextLine();
 		
 		System.out.println("Enter your Age :");
