@@ -11,7 +11,7 @@ int main(void){
 	fp=fopen("attendance.dat","w");
 	
 	if(fp==NULL){
-		printf("File cannot be saved");
+		printf("File cannot  saved");
 		return -1;
 	}
 	
