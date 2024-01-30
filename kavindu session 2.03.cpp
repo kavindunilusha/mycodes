@@ -73,7 +73,7 @@ float calcFuelcost (int vehicleType, float usedFuelQuota){
 	
 }
 void displayDetails(int vType, float usedFuelQuota, float remainingQuota, float cost){
-	printf("\n%s%20s%20s%15s","vehicle type","Quota used","Quota remaining","Fuel cost");
+	printf("\n%s%20s%20s%15s","vehicl type","Quota used","Quota remaining","Fuel cost");
 	printf("%d%30.2f%20.2f%18.2f",vType,usedFuelQuota,remainingQuota,cost);
 }
 
