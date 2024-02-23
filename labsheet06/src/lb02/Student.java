@@ -14,7 +14,7 @@ public class Student {
 		
 	}
 	public String toString() {
-		return "\n\nStudent id:"+studentID+",name:"+name+",GPA:"+gpa;
+		return "\n\nStudent id:"+studentID+",name:"+name+",GPA"+gpa;
 	}
 	
 	public String getStudentID() {
