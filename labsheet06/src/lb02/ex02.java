@@ -10,7 +10,7 @@ public class ex02 {
 		
 		studentList.add(new Student("IT101","Kavindu Nilush",4));
 		studentList.add(new Student("IT102","Sakindu Malshan ",4));
-		studentList.add(new Student("IT103","Erandi Amarasekara",4));
+		studentList.add(new Student("IT103","Erandi Amarasekar",4));
 		
 		System.out.println("Student Details:");
 		for(Student student:studentList) {
